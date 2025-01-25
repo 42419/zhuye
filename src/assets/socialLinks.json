@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:3493950250@qq.com"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "来个 QQ ~",
+    "url": "https://tool.gljlw.com/qq/?qq=3493950250"
+  }
+]

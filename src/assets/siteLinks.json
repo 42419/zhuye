@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Cloud",
+    "name": "朋友圈",
+    "link": "https://forum.liyunfei.eu.org/"
+  },
+  {
+    "icon": "Book",
+    "name": "临时邮箱",
+    "link": "https://moemail.liyunfei.eu.org/"
+  },
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.liyunfei.eu.org/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.liyunfei.eu.org/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "图床",
+    "link": "https://tc.liyunfei.eu.org/"
+  }
+]
